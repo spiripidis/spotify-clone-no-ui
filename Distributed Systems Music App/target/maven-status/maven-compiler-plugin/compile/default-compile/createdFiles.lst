@@ -1,0 +1,9 @@
+musicApp\Check4DuplicateSongs.class
+musicApp\AccessServer.class
+musicApp\Client.class
+musicApp\FileManipulation.class
+musicApp\ServerCommunicator.class
+musicApp\AudioPlayer.class
+musicApp\ClientHandler.class
+musicApp\LoadBalancer.class
+musicApp\Server.class
